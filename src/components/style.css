@@ -1,0 +1,15 @@
+/* .foto {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+} */
+
+.bod {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.h1 {
+  padding: 3%;
+}
